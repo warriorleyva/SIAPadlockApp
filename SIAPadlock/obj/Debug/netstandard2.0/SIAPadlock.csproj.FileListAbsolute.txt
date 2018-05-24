@@ -1,0 +1,9 @@
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/obj/Debug/netstandard2.0/SIAPadlock.csprojResolveAssemblyReference.cache
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/obj/Debug/netstandard2.0/SIAPadlock.csproj.CoreCompileInputs.cache
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/obj/Debug/netstandard2.0/SIAPadlock.AssemblyInfoInputs.cache
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/obj/Debug/netstandard2.0/SIAPadlock.AssemblyInfo.cs
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/bin/Debug/netstandard2.0/SIAPadlock.deps.json
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/bin/Debug/netstandard2.0/SIAPadlock.dll
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/bin/Debug/netstandard2.0/SIAPadlock.pdb
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/obj/Debug/netstandard2.0/SIAPadlock.dll
+/Users/warriorleyva/Projects/SIAPadlock/SIAPadlock/obj/Debug/netstandard2.0/SIAPadlock.pdb

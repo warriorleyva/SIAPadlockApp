@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage NavigationPage.HasNavigationBar="false"
+             xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="SIAPadlock.LoginPage">
+    <Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+    </Grid.RowDefinitions>
+
+        <Image Grid.Row="0" Grid.Column="0" Source="sia.png"></Image>
+        
+        <StackLayout Grid.Row="1" Grid.Column="0" Spacing="20" Padding="30">
+            <Entry x:Name="userEntry" Placeholder="Usuario" FontSize="25"></Entry>
+            <Entry x:Name="passwordEntry" Placeholder="Contraseña" IsPassword="true" FontSize="25"></Entry>
+            <Button Text="Ingresar" FontSize="20" Clicked="Login_Clicked"></Button>
+        </StackLayout>
+    </Grid>
+</ContentPage>

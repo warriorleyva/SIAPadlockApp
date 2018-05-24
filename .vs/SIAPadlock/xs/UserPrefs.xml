@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{40F46DD4-3B27-4500-B24D-95F78FFF42A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SIAPadlock/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="SIAPadlock/ControlPage.xaml" Line="9" Column="84" />
+      <File FileName="SIAPadlock/ControlPage.xaml.cs" Line="46" Column="6" />
+      <File FileName="SIAPadlock/LoginPage.xaml.cs" Line="35" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SIAPadlock.Android PreferredExecutionTarget="Android.TA91902WGM" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
